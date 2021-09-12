@@ -25,7 +25,7 @@ class _media_streamState extends State<media_stream> {
   void initState() {
     super.initState();
     _controller = VideoPlayerController.network(
-      // 'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4',
+    
       file_name!,
 
       videoPlayerOptions: VideoPlayerOptions(mixWithOthers: true),
