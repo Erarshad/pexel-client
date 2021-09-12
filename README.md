@@ -1,4 +1,4 @@
-# > Assignment for internee position in **RAJSTHAN STUDIO**
+# > Pexel client
 
 
 https://user-images.githubusercontent.com/57806993/132971542-be2bfc2b-e53a-4239-b625-8ff4365a1174.mov
